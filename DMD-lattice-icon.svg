@@ -1,11 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
-  <title>DMD-lattice-icon</title>
-  <polygon points="8.3 10.162 14.6 21.074 2 21.074 8.3 10.162" style="fill: none;stroke: #000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
-  <polygon points="20.9 10.162 27.2 21.074 14.6 21.074 20.9 10.162" style="fill: none;stroke: #000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
-  <polygon points="14.6 21.074 8.3 10.162 20.9 10.162 14.6 21.074" style="fill: none;stroke: #000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
-  <polygon points="27.2 21.074 20.9 10.162 33.5 10.162 27.2 21.074" style="fill: none;stroke: #000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
-  <polygon points="14.6 21.074 20.9 31.986 8.3 31.986 14.6 21.074" style="fill: none;stroke: #000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
-  <polygon points="27.2 21.074 33.5 31.986 20.9 31.986 27.2 21.074" style="fill: none;stroke: #000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
-  <polygon points="20.9 31.986 14.6 21.074 27.2 21.074 20.9 31.986" style="fill: none;stroke: #000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
-  <polygon points="33.5 31.986 27.2 21.074 39.8 21.074 33.5 31.986" style="fill: none;stroke: #000;stroke-linecap: round;stroke-linejoin: round;stroke-width: 2px"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 42 42" style="enable-background:new 0 0 42 42;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<title>DMD-lattice-icon</title>
+<polygon class="st0" points="8.3,10.2 14.6,21.1 2,21.1 "/>
+<polygon class="st0" points="20.9,10.2 27.2,21.1 14.6,21.1 "/>
+<polygon class="st0" points="14.6,21.1 8.3,10.2 20.9,10.2 "/>
+<polygon class="st0" points="27.2,21.1 20.9,10.2 33.5,10.2 "/>
+<polygon class="st0" points="14.6,21.1 20.9,32 8.3,32 "/>
+<polygon class="st0" points="27.2,21.1 33.5,32 20.9,32 "/>
+<polygon class="st0" points="20.9,32 14.6,21.1 27.2,21.1 "/>
+<polygon class="st0" points="33.5,32 27.2,21.1 39.8,21.1 "/>
 </svg>
